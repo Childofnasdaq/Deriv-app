@@ -1,3 +1,5 @@
+// App/api/deriv/route.ts
+
 import { NextResponse } from 'next/server'
 import { DerivAPI } from '@/utils/deriv-api'
 
