@@ -1,3 +1,5 @@
+// utils/deriv-api.ts
+
 import WebSocket from 'ws'
 
 export class DerivAPI {
